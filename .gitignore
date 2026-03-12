@@ -1,0 +1,6 @@
+.idea/
+sfr-platform/node_modules/
+sfr-platform/.next/
+sfr-platform/.vercel/
+sfr-platform/.env
+sfr-platform/.env*.local
